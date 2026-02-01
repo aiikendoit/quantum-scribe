@@ -48,7 +48,7 @@ Quantum Scribe is a customized version of Open WebUI configured as a corporate k
 - 50GB free disk space
 
 ### Clone the Repository
-
+```bash
 git clone https://github.com/aiikendoit/quantum-scribe.git
 cd quantum-scribe
 ```
